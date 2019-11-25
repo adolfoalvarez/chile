@@ -1,0 +1,297 @@
+---
+title: "Monthly Travelers Meeting - Chile"
+#subtitle: "Part I"  
+author: "Adolfo Alvarez"
+date: '`r Sys.Date()`'
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ["default", "xaringan-themer.css", "other.css"]
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: '16:9'
+---
+class: center, middle
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+library(knitr)
+```
+
+```{r xaringan-themer, include=FALSE}
+library(xaringanthemer)
+duo_accent(primary_color = "#1b5f71", 
+           secondary_color = "#e14337",
+           inverse_header_color = "#FFFFFF")
+# solarized_dark(
+#   code_font_family = "Fira Code",
+#   code_font_url    = "https://cdn.rawgit.com/tonsky/FiraCode/1.204/distr/fira_code.css"
+# )
+# mono_accent(
+#   base_color = "#004d67",
+#   header_font_google = google_font("Muli"),
+#   text_font_google   = google_font("Muli", "300", "300i"),
+#   code_font_google   = google_font("Droid Mono")
+# )
+```
+# Don't travel right now to Chile
+# Thanks. Questions? Comments?
+
+<!-- --- -->
+<!-- class: inverse, center, middle -->
+---
+class: inverse, center
+## Ok, we have one hour, so...
+# I.- Few interesting facts and places to visit (when country get more calm!)
+
+---
+# Chile quiz!
+
+1) What is the population of Chile?
+
+a) 32M b) 17M c) 48M d) 41M
+
+---
+# Chile quiz!
+
+1) What is the population of Chile?
+
+a) 32M **b) 17M** c) 48M d) 41M
+
+The last census (2017) indicates a population of 17574003. This census had to be performed 5 years earlier than planned since the previous one had not accomplished minimal standards of quality.
+
+---
+# Chile quiz!
+
+2) In terms of exports, what is the main contributor to the economy of the country?
+
+a) Fruits b) Wine c) Wood d) Cupper 
+
+---
+# Chile quiz!
+
+2) In terms of exports, what is the main contributor to the economy of the country?
+
+a) Fruits b) Wine c) Wood **d) Cupper** 
+
+[http://oec.world/ogl92t](http://oec.world/ogl92t)
+
+---
+background-image: url("img/kghm.png")
+
+
+---
+# Chile quiz!
+
+3) How many nobel prizes had chileans won?
+
+a)0 b)1 c)2 d)3
+
+---
+# Chile quiz!
+
+3) How many nobel prizes had chileans won?
+
+a)0 b)1 **c)2** d)3
+
+We are far away from the 18 nobel prizes of Poland, but probably you should read something from Pablo Neruda or Gabriela Mistral.
+
+---
+# Chile quiz
+How many soccer world cups have chile won?
+
+--
+
+ok, is 0 of course, but we organized one in 1962!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e_yafwjcf-w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+# Chile quiz
+4) How many America cups we have won in soccer?
+
+a)0, b)1, c)2, d)3
+
+---
+# Chile quiz
+4) How many America cups we have won in soccer?
+
+a)0, b)1, **c)2**, d)3
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Sm0TeXjvNJg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+# Chile quiz
+
+5) Who is the president?
+
+a) Michelle Bachelet b)Sebastian Piñera c) Michelle Bachelet d)Sebastian Piñera
+
+---
+# Chile quiz
+
+5) Who is the president?
+
+a) Michelle Bachelet b)Sebastian Piñera c) Michelle Bachelet **d)Sebastian Piñera**
+
+The chilean constitution doesn't allow for immediate reelection, so we have had an alternance between centre-left Bachelet and centre-right Piñera
+
+- 2006-2010 Michelle Bachelet
+- 2010-2014 Sebastian Piñera
+- 2014-2018 Michelle Bachelet
+- 2018-2022 Sebastian Piñera
+
+---
+# Some touristic places you MUST visit
+
+- Santiago de Chile https://www.youtube.com/watch?v=6nvqoGwC-QI
+- Torres del Paine https://www.youtube.com/watch?v=eVM2fARKUok
+- Isla de Pascua https://www.youtube.com/watch?v=KljZ28SXz0c
+- San Pedro de Atacama https://www.youtube.com/watch?v=BgcmXCJXmV8
+
+---
+class: center, inverse, middle
+
+# ok ok, but what's going on
+
+---
+# In 2013...
+
+https://www.sandiegouniontribune.com/sdut-pinera-greets-rajoy-welcome-to-a-better-world-2013jan25-story.html
+
+---
+# Two months ago Chile was the organizer of
+
+- Asia Pacific Economic Cooperation (APEC 2019). US-China deal expected
+- UN Climate Change Conference (COP25). Greta Thunberg was on the way
+- Copa Libertadores final host. Soccer is the most important of the unimportant things in life.
+
+And important local events such as
+- Teleton 2019 (The national campaign in support of children with disabilities)
+
+# They are all cancelled now.
+
+---
+# October 4th
+
+### The government announces the subway ticket increases from 800 CLP(3,82 PLN) to 830 CLP (3,96 PLN)
+
+https://www.t13.cl/noticia/nacional/transporte-publico-anuncia-alza-30-hora-punta-y-metro-llega-830
+
+---
+# October 7th
+
+- Students starts organize massive breaks to the subway
+
+- This video is from the fifth day of those protests (Oct 11th):
+
+https://www.instagram.com/p/B3e7I_SFN7E/?utm_source=ig_embed&utm_campaign=loading
+
+---
+# October 16th
+
+- Clemente Perez, former Subway manager: "Cabros, esto no prendio"
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7zkqTt3bX7U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+# October 11-18
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0e1qbELHiEQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+# October 18th
+
+- The situation escalated as protests unfolded in downtown Santiago. 
+- Barricades were built, to which the police responded with water cannon and tear gas. 
+- The entire Metro system was closed after attacks were reported at nearly all its 164 stations, forcing many passengers to walk home. 
+- The headquarters building of electricity company Enel Generación Chile was damaged in a massive fire.
+- President Piñera declares "State of emergency" and let army to take control of the country
+
+---
+# October 19th
+
+- The violence continued on 19 October and the Metro remained closed to passengers. Shops were looted, buses were set alight and clashes occurred between demonstrators and the security forces.
+
+- A curfew was imposed between 22:00 and 07:00 hours. As rioting spread to other parts of the country, states of emergency were declared in the Valparaíso Region and Concepción Province.
+
+- In an address to the nation in the evening, President Piñera announced the cancellation of the fare increase and the establishment of a dialogue panel, with representatives from across society, to discuss the underlying causes behind the unrest.
+
+---
+# October 20
+
+- On 20 October, many supermarkets, shopping malls and cinemas remained closed[50] as the protests continued.
+- Curfews were imposed for that night in the Santiago Metropolitan Region, and the regions of Valparaíso, Biobío (including the regional capital, Concepción), and Coquimbo
+- President Piñera declares we are "at war".
+
+---
+# October 18-24
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8acIrtYbb-c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+# October 25
+
+and then this happened:
+
+<iframe width="400" height="500" frameborder="0" src="https://www.bbc.com/news/av/embed/p07s4k8w/50192236"></iframe>
+
+---
+# October 25
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uLCp1SAZ3Qw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+# October 27
+
+- On 27 October, President Piñera requested all of his cabinet ministers to resign; however, he accepted 8 resignations, including the Interior Minister Andrés Chadwick. 
+- The state of emergency ended, the army left the streets but protests have remain since then.
+
+---
+# Since then
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eN-AAx59Cjc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- 22 deaths
+- 2200 injured
+- 209 cases of eye trauma
+
+---
+# Amnesty international
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ACB0Bl9uf2U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+class: center, middle, inverse
+
+# Why?
+
+---
+# Multiple reasons, but the main: inequality
+
+- https://www.nytimes.com/2019/10/22/opinion/chile-protests.html
+
+- https://www.theguardian.com/inequality/datablog/2017/apr/26/inequality-index-where-are-the-worlds-most-unequal-countries
+
+---
+# Some already proposed solutions
+
+- New constitution
+- Battery of social measures 
+- Improve on protocols and use of guns by police
+
+Among others
+
+---
+class: center, inverse, middle
+
+# I am sorry for the bitter taste
+
+--
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uufzhBM31ws" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
